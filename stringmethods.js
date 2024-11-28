@@ -100,6 +100,9 @@ let sp=s.split("mahe",5);
 console.log("Split : "+sp);
 
 
+// test code
+
+
 
 
 
